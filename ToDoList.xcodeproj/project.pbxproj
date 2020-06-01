@@ -85,7 +85,6 @@
 		18588B2D22DCCCDE00A69772 = {
 			isa = PBXGroup;
 			children = (
-				18588B6A22DCD03E00A69772 /* ToDoTableViewController.swift */,
 				18588B3822DCCCDE00A69772 /* ToDoList */,
 				18588B5022DCCCE100A69772 /* ToDoListTests */,
 				18588B5B22DCCCE100A69772 /* ToDoListUITests */,
@@ -111,6 +110,7 @@
 				18588B7022DCFB4300A69772 /* CompleteToDoViewController.swift */,
 				18588B6E22DCD64600A69772 /* AddToDOViewController.swift */,
 				18588B6C22DCD0A200A69772 /* ToDo.swift */,
+				18588B6A22DCD03E00A69772 /* ToDoTableViewController.swift */,
 				18588B4322DCCCE100A69772 /* Assets.xcassets */,
 				18588B4522DCCCE100A69772 /* LaunchScreen.storyboard */,
 				18588B4822DCCCE100A69772 /* Info.plist */,
